@@ -1,0 +1,69 @@
+.main_text{
+    height: 600px;
+background-color: rgb(255, 223, 184);
+padding: 70px;
+}
+.orange{
+    color: rgb(255, 136, 0);
+}
+.our_philosophy{
+    height: 550px;
+    padding: 90px 45px ;
+}
+.orange_sec{
+    background-color:rgb(255, 136, 0) ;
+    height: 450px;
+}
+/* .orange_sec h2{
+    line-height: 3;
+} */
+.cards{
+    position: relative;
+}
+.card_up{
+    position: absolute;
+    top: -220px;
+    left: 0;
+}
+.pop-up:hover{
+    transform: scale(1.1, 1.1);
+  }
+.features{
+    height: 450px;
+}
+.padding{
+    position: relative;
+}
+.bg_div{
+    background-color: rgb(255, 229, 217);
+    height: 245px;
+    width: 200px;
+    position: absolute;
+    top: 108px;
+    left: 64px;
+    z-index: 0;
+
+}  
+.img1{
+    position: absolute;
+    top: 168px;
+    left: 20px;
+    z-index: 1;
+}
+.img2{
+    position: absolute;
+    top: 63px;
+    left: 160px;
+    z-index: 1;
+}
+.blog_card{
+    position: relative;
+}
+.card_badge{
+    position: absolute;
+    top: 21px;
+    left: 12px;
+}
+footer{
+    background-color: black;
+}
